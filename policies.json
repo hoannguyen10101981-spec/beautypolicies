@@ -80,6 +80,26 @@
     "reviewed_on": "2026-09-12"
   },
   {
+    "brand": "Biossance",
+    "return_window": "30 days from ship date.",
+    "return_postage": "Unconfirmed",
+    "free_shipping_threshold": "US domestic orders $50 or more after discounts and before tax.",
+    "opened_products": "Returns accepted if not satisfied; sets and accessories are final sale.",
+    "official_sources": {
+      "return_window": [
+        "https://www.biossance.com/c/returns/"
+      ],
+      "return_postage": [],
+      "free_shipping_threshold": [
+        "https://www.biossance.com/c/offers/legal-disclaimers/"
+      ],
+      "opened_products": [
+        "https://www.biossance.com/c/returns/"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
+  },
+  {
     "brand": "Charlotte Tilbury",
     "return_window": "Unconfirmed",
     "return_postage": "Brand pays: free qualifying returns.",
@@ -118,6 +138,28 @@
     "reviewed_on": "2026-09-12"
   },
   {
+    "brand": "Clinique",
+    "return_window": "30 days from purchase.",
+    "return_postage": "Brand describes returns as free.",
+    "free_shipping_threshold": "Non-members $50 after discounts; Smart Rewards members no minimum.",
+    "opened_products": "Yes, new or gently used.",
+    "official_sources": {
+      "return_window": [
+        "https://www.clinique.com/customer-care/help-topics"
+      ],
+      "return_postage": [
+        "https://www.clinique.com/risk-free-trial"
+      ],
+      "free_shipping_threshold": [
+        "https://www.clinique.com/customer-care/shipping"
+      ],
+      "opened_products": [
+        "https://www.clinique.com/customer-care/help-topics"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
+  },
+  {
     "brand": "Clionadh Cosmetics",
     "return_window": "No ordinary cosmetic returns; separate EU withdrawal rights apply.",
     "return_postage": "Unconfirmed",
@@ -154,6 +196,26 @@
       ]
     },
     "reviewed_on": "2026-09-12"
+  },
+  {
+    "brand": "ColourPop",
+    "return_window": "No ordinary returns; damaged-item replacement within 14 days of delivery.",
+    "return_postage": "Unconfirmed",
+    "free_shipping_threshold": "US orders over $35.",
+    "opened_products": "No ordinary returns or exchanges.",
+    "official_sources": {
+      "return_window": [
+        "https://colourpop.com/policies/refund-policy"
+      ],
+      "return_postage": [],
+      "free_shipping_threshold": [
+        "https://colourpop.com/cart"
+      ],
+      "opened_products": [
+        "https://colourpop.com/policies/refund-policy"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
   },
   {
     "brand": "Devinah Cosmetics",
@@ -234,6 +296,26 @@
     "reviewed_on": "2026-09-12"
   },
   {
+    "brand": "e.l.f. Cosmetics",
+    "return_window": "No ordinary returns; named complexion shade refunds within 30 days of purchase.",
+    "return_postage": "Unconfirmed",
+    "free_shipping_threshold": "US merchandise orders $35 or more.",
+    "opened_products": "No ordinary returns; limited named complexion shade-refund exception.",
+    "official_sources": {
+      "return_window": [
+        "https://www.elfcosmetics.com/pages/faqs"
+      ],
+      "return_postage": [],
+      "free_shipping_threshold": [
+        "https://www.elfcosmetics.com/pages/shipping"
+      ],
+      "opened_products": [
+        "https://www.elfcosmetics.com/pages/faqs"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
+  },
+  {
     "brand": "EADEM",
     "return_window": "Unconfirmed",
     "return_postage": "Unconfirmed",
@@ -250,6 +332,28 @@
       ]
     },
     "reviewed_on": "2026-09-12"
+  },
+  {
+    "brand": "Estée Lauder",
+    "return_window": "30 days from delivery.",
+    "return_postage": "Prepaid label supplied; original shipping and delivery fees are non-refundable.",
+    "free_shipping_threshold": "$50 purchase.",
+    "opened_products": "Yes, new or gently used.",
+    "official_sources": {
+      "return_window": [
+        "https://www.esteelauder.com/customer-service/returns"
+      ],
+      "return_postage": [
+        "https://www.esteelauder.com/customer-service/returns"
+      ],
+      "free_shipping_threshold": [
+        "https://www.esteelauder.com/customer-service"
+      ],
+      "opened_products": [
+        "https://www.esteelauder.com/customer-service/returns"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
   },
   {
     "brand": "Experiment",
@@ -270,6 +374,28 @@
     "reviewed_on": "2026-09-12"
   },
   {
+    "brand": "Farmacy Beauty",
+    "return_window": "Initiate within 30 days of receipt.",
+    "return_postage": "Brand pays US domestic and Puerto Rico return shipping.",
+    "free_shipping_threshold": "Domestic US orders $50 or more.",
+    "opened_products": "Yes, new or gently used.",
+    "official_sources": {
+      "return_window": [
+        "https://www.farmacybeauty.com/pages/returns"
+      ],
+      "return_postage": [
+        "https://www.farmacybeauty.com/pages/returns"
+      ],
+      "free_shipping_threshold": [
+        "https://www.farmacybeauty.com/pages/frequently-asked-questions"
+      ],
+      "opened_products": [
+        "https://www.farmacybeauty.com/pages/returns"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
+  },
+  {
     "brand": "Fenty Beauty",
     "return_window": "30 days after purchase for US direct-site orders.",
     "return_postage": "Brand pays: free prepaid US returns.",
@@ -288,6 +414,28 @@
       "opened_products": []
     },
     "reviewed_on": "2026-09-12"
+  },
+  {
+    "brand": "First Aid Beauty",
+    "return_window": "30 days from receipt.",
+    "return_postage": "$5 deducted for prepaid label; own carrier at customer expense.",
+    "free_shipping_threshold": "No minimum stated; US standard USPS shipping is free.",
+    "opened_products": "Yes, gently tested; no more than one quarter used.",
+    "official_sources": {
+      "return_window": [
+        "https://www.firstaidbeauty.com/policies/refund-policy"
+      ],
+      "return_postage": [
+        "https://www.firstaidbeauty.com/policies/refund-policy"
+      ],
+      "free_shipping_threshold": [
+        "https://www.firstaidbeauty.com/pages/frequently-asked-questions"
+      ],
+      "opened_products": [
+        "https://www.firstaidbeauty.com/policies/refund-policy"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
   },
   {
     "brand": "Flower Knows",
@@ -350,6 +498,26 @@
     "reviewed_on": "2026-09-12"
   },
   {
+    "brand": "Glow Recipe",
+    "return_window": "30 days.",
+    "return_postage": "Brand pays US return shipping with a prepaid label.",
+    "free_shipping_threshold": "Unconfirmed",
+    "opened_products": "Single-use items must be unused and in original packaging.",
+    "official_sources": {
+      "return_window": [
+        "https://www.glowrecipe.com/pages/shipping"
+      ],
+      "return_postage": [
+        "https://www.glowrecipe.com/pages/shipping"
+      ],
+      "free_shipping_threshold": [],
+      "opened_products": [
+        "https://www.glowrecipe.com/pages/shipping"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
+  },
+  {
     "brand": "Half Magic",
     "return_window": "30 days after placing the order.",
     "return_postage": "Brand pays for domestic returns; excludes US territories and APO/FPO.",
@@ -368,6 +536,26 @@
       "opened_products": []
     },
     "reviewed_on": "2026-09-12"
+  },
+  {
+    "brand": "ILIA Beauty",
+    "return_window": "60 days from purchase.",
+    "return_postage": "Prepaid label supplied when instructed to ship; no restocking fee.",
+    "free_shipping_threshold": "US orders over $50 before tax and after discounts.",
+    "opened_products": "Unconfirmed",
+    "official_sources": {
+      "return_window": [
+        "https://support.iliabeauty.com/en-US/what-is-your-returnexchange-policy-732130"
+      ],
+      "return_postage": [
+        "https://support.iliabeauty.com/en-US/what-is-your-returnexchange-policy-732130"
+      ],
+      "free_shipping_threshold": [
+        "https://support.iliabeauty.com/en-US/do-you-offer-free-shipping-732253"
+      ],
+      "opened_products": []
+    },
+    "reviewed_on": "2026-09-15"
   },
   {
     "brand": "Jordan Samuel Skin",
@@ -406,6 +594,24 @@
       ]
     },
     "reviewed_on": "2026-09-12"
+  },
+  {
+    "brand": "Kiehl's",
+    "return_window": "Unconfirmed",
+    "return_postage": "$8 mail-return processing fee.",
+    "free_shipping_threshold": "$50 or more for ground shipping.",
+    "opened_products": "Unconfirmed",
+    "official_sources": {
+      "return_window": [],
+      "return_postage": [
+        "https://www.kiehls.com/customer-service/shipping-and-returns.html"
+      ],
+      "free_shipping_threshold": [
+        "https://www.kiehls.com/customer-service/shipping-and-returns.html"
+      ],
+      "opened_products": []
+    },
+    "reviewed_on": "2026-09-15"
   },
   {
     "brand": "Kinship",
@@ -506,6 +712,28 @@
     "reviewed_on": "2026-09-12"
   },
   {
+    "brand": "MAC Cosmetics",
+    "return_window": "30 days from delivery.",
+    "return_postage": "$7 deducted for mail; eligible store return free.",
+    "free_shipping_threshold": "Current page banner: $60 or more.",
+    "opened_products": "Yes, new or gently used.",
+    "official_sources": {
+      "return_window": [
+        "https://www.maccosmetics.com/policies/refund-policy"
+      ],
+      "return_postage": [
+        "https://www.maccosmetics.com/policies/refund-policy"
+      ],
+      "free_shipping_threshold": [
+        "https://www.maccosmetics.com/policies/refund-policy"
+      ],
+      "opened_products": [
+        "https://www.maccosmetics.com/policies/refund-policy"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
+  },
+  {
     "brand": "Maelove",
     "return_window": "Request within 100 calendar days of delivery; send back within 21 days of starting the return.",
     "return_postage": "Brand pays: free label for US returns.",
@@ -580,6 +808,24 @@
       "opened_products": []
     },
     "reviewed_on": "2026-09-12"
+  },
+  {
+    "brand": "Paula's Choice",
+    "return_window": "60 days for refund or credit; through 180 days for credit only.",
+    "return_postage": "Unconfirmed; shipping fees are not refundable.",
+    "free_shipping_threshold": "Unconfirmed",
+    "opened_products": "Unconfirmed",
+    "official_sources": {
+      "return_window": [
+        "https://www.paulaschoice.com/on/demandware.static/-/Library-Sites-paulachoice/default/dwce09dc17/files/PC_INVOICE_BACK_US.pdf"
+      ],
+      "return_postage": [
+        "https://www.paulaschoice.com/on/demandware.static/-/Library-Sites-paulachoice/default/dwce09dc17/files/PC_INVOICE_BACK_US.pdf"
+      ],
+      "free_shipping_threshold": [],
+      "opened_products": []
+    },
+    "reviewed_on": "2026-09-15"
   },
   {
     "brand": "Phytosurgence",
@@ -764,6 +1010,28 @@
     "reviewed_on": "2026-09-12"
   },
   {
+    "brand": "Sunday Riley",
+    "return_window": "Contact within 30 days of receipt.",
+    "return_postage": "Brand supplies a prepaid return label.",
+    "free_shipping_threshold": "US orders over $50.",
+    "opened_products": "May be rejected if less than half full.",
+    "official_sources": {
+      "return_window": [
+        "https://sundayriley.com/pages/faq"
+      ],
+      "return_postage": [
+        "https://sundayriley.com/pages/faq"
+      ],
+      "free_shipping_threshold": [
+        "https://sundayriley.com/pages/faq"
+      ],
+      "opened_products": [
+        "https://sundayriley.com/pages/faq"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
+  },
+  {
     "brand": "Tatcha",
     "return_window": "Unconfirmed",
     "return_postage": "Brand pays: free US returns advertised on the offers page.",
@@ -780,6 +1048,26 @@
       "opened_products": []
     },
     "reviewed_on": "2026-09-12"
+  },
+  {
+    "brand": "The Ordinary",
+    "return_window": "365 days from purchase.",
+    "return_postage": "Customer pays; brand does not provide or cover return labels.",
+    "free_shipping_threshold": "Unconfirmed",
+    "opened_products": "Yes, if at least 50% full.",
+    "official_sources": {
+      "return_window": [
+        "https://theordinary.com/en-us/returns.html/"
+      ],
+      "return_postage": [
+        "https://theordinary.com/en-us/returns.html/"
+      ],
+      "free_shipping_threshold": [],
+      "opened_products": [
+        "https://theordinary.com/en-us/returns.html/"
+      ]
+    },
+    "reviewed_on": "2026-09-15"
   },
   {
     "brand": "Three Ships",
@@ -946,5 +1234,23 @@
       ]
     },
     "reviewed_on": "2026-09-12"
+  },
+  {
+    "brand": "Youth To The People",
+    "return_window": "Unconfirmed",
+    "return_postage": "$8 deducted when the prepaid label is used.",
+    "free_shipping_threshold": "Over $75 before tax and after discounts.",
+    "opened_products": "Unconfirmed",
+    "official_sources": {
+      "return_window": [],
+      "return_postage": [
+        "https://www.youthtothepeople.com/customer-service/customer-service-shipping-and-returns.html"
+      ],
+      "free_shipping_threshold": [
+        "https://www.youthtothepeople.com/customer-service/customer-service-shipping-and-returns.html"
+      ],
+      "opened_products": []
+    },
+    "reviewed_on": "2026-09-15"
   }
 ]
