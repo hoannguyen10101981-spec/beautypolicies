@@ -2,7 +2,7 @@
 
 This is the **2026-09-16 snapshot** of BeautyDeals' 63-row beauty returns and free-shipping comparison for US direct-site shopping. It reproduces the seven fields published in the source table without adding brands, fields, estimates, or independent policy research. Each row preserves the table's own `reviewed_on` value and the official-source links already attached to that row.
 
-Source comparison: https://lxlex.com/beauty-returns-free-shipping-comparison.html
+Source comparison: https://lxlex.com/beauty-returns-free-shipping-comparison
 
 ## Files and fields
 
