@@ -15,3 +15,15 @@ Source comparison: https://lxlex.com/beauty-returns-free-shipping-comparison
 This package corresponds to the comparison page reviewed on **2026-09-16**. Row-level review dates remain as displayed in that page rather than being rewritten to the snapshot date. Historical 48-row releases remain separate, immutable snapshots.
 
 The compilation and authored summaries are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Attribution: BeautyDeals, *Beauty Brand Policy Data*, 2026-09-16 snapshot. Brand names, trademarks, and linked official policies remain the property of their respective owners.
+
+## Use the snapshot locally
+
+Download this repository's files together. With Python 3.9 or later, no extra packages are required:
+
+```sh
+python query.py --validate
+python query.py --brand prequel
+python query.py --brand "ulta" --format csv
+```
+
+The command matches brand names without regard to case and preserves policy wording, uncertainty, review dates and source links. It reads local files only; it does not re-check current policies or infer missing terms. See [DATA_DICTIONARY.md](DATA_DICTIONARY.md) for field definitions, limitations and a reuse checklist.
